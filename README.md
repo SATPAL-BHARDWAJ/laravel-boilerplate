@@ -1,5 +1,5 @@
 ## Laravel Boilerplate (Current: Laravel 7.*) ([Demo](https://demo.laravel-boilerplate.com))
-
+## This is just a clone - Official is https://github.com/rappasoft/laravel-boilerplate
 [![Latest Stable Version](https://poser.pugx.org/rappasoft/laravel-boilerplate/v/stable)](https://packagist.org/packages/rappasoft/laravel-boilerplate)
 [![Latest Unstable Version](https://poser.pugx.org/rappasoft/laravel-boilerplate/v/unstable)](https://packagist.org/packages/rappasoft/laravel-boilerplate) 
 <br/>
